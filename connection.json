@@ -1,9 +1,9 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
-  "role"      : "",
-  "warehouse" : "",
-  "database"  : "",
-  "schema"    : ""
+  "account"   : "ah18282.west-europe.azure.snowflakecomputing.com",
+  "user"      : "ANH",
+  "password"  : "Siemens@0702",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "DASH_L",
+  "database"  : "DASH_L",
+  "schema"    : "DASH_L"
 }
